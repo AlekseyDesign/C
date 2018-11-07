@@ -1,6 +1,6 @@
-# Lesson Projects on C
+# Simple tasks on C
 
-Simple tasks on C.
+Lesson Projects on C.
 
 These tasks served as a preparation for passage of pool 42 School.
 
